@@ -1,0 +1,8 @@
+payload:
+  ##群晖
+  - DOMAIN-SUFFIX,insight.synology.com
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN,kr.usxx.xyz
+  - DOMAIN,ark.usxx.xyz
+  - DOMAIN,arm.usxx.xyz
