@@ -6,3 +6,4 @@ payload:
   - DOMAIN,kr.usxx.xyz
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
+  - IP-CIDR,152.67.203.182/32
