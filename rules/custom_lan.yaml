@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
+  - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN,kr.usxx.xyz
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
