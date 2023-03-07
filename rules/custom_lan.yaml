@@ -3,8 +3,10 @@ payload:
   - DOMAIN,kr.usxx.xyz
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
+  - DOMAIN-SUFFIX,live.v1.mk
   - DOMAIN,insight.synology.com
   ##
+  - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,091321.XYZ
