@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN,kr.usxx.xyz
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,github.com

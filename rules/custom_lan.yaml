@@ -1,5 +1,6 @@
 payload:
   ##群晖
+  - DOMAIN,kr.usxx.xyz
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
   - DOMAIN-SUFFIX,live.v1.mk
@@ -13,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,hhanclub.top
   - IP-CIDR,152.67.203.182/32
+  - IP-CIDR,150.230.248.184/32
