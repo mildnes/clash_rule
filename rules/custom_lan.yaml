@@ -1,13 +1,14 @@
 payload:
   ##群晖
-  - DOMAIN-SUFFIX,insight.synology.com
+  - DOMAIN,kr.usxx.xyz
+  - DOMAIN,ark.usxx.xyz
+  - DOMAIN,arm.usxx.xyz
+  - DOMAIN,insight.synology.com
+  ##
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,hhanclub.top
-  - DOMAIN,kr.usxx.xyz
-  - DOMAIN,ark.usxx.xyz
-  - DOMAIN,arm.usxx.xyz
   - IP-CIDR,152.67.203.182/32
