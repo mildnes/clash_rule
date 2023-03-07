@@ -1,6 +1,5 @@
 payload:
   ##群晖
-  - DOMAIN,kr.usxx.xyz
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
   - DOMAIN-SUFFIX,live.v1.mk
