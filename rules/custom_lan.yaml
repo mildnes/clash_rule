@@ -1,10 +1,13 @@
 payload:
-  ##群晖
+  ##VPS
   - DOMAIN,kr.usxx.xyz
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
+  - DOMAIN,tk.usxx.xyz
+  - DOMAIN-SUFFIX,live.v1.mk
   - DOMAIN,insight.synology.com
   ##
+  - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,ipw.cn
@@ -12,4 +15,8 @@ payload:
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,hhanclub.top
+  ##vps
+  - IP-CIDR,138.2.1.246/32
   - IP-CIDR,152.67.203.182/32
+  - IP-CIDR,150.230.248.184/32
+  - IP-CIDR,152.67.198.196/32
