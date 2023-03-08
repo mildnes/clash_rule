@@ -4,6 +4,7 @@ payload:
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
   - DOMAIN,tk.usxx.xyz
+  - DOMAIN,dpj.usxx.xyz
   - DOMAIN,insight.synology.com
   ##
   - DOMAIN-SUFFIX,epg.pw
@@ -22,3 +23,4 @@ payload:
   - IP-CIDR,152.67.198.196/32
   - IP-CIDR,116.177.248.91/32
   - IP-CIDR,43.154.4.40/32
+  - IP-CIDR,138.201.81.237/32
