@@ -4,13 +4,13 @@ payload:
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
   - DOMAIN,tk.usxx.xyz
-  - DOMAIN-SUFFIX,live.v1.mk
   - DOMAIN,insight.synology.com
+  - DOMAIN,ipw.cn
   ##
   - DOMAIN-SUFFIX,epg.pw
+  - DOMAIN-SUFFIX,live.v1.mk
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
-  - DOMAIN-SUFFIX,ipw.cn
   - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,zhuque.in
