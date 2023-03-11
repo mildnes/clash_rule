@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,dmhy.org
   ##vps
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,152.67.203.182/32

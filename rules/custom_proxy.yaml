@@ -1,6 +1,5 @@
 payload:
   - DOMAIN,ghproxy.20120714.xyz
-  - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,github.com
