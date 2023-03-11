@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,ghproxy.20120714.xyz
+  - DOMAIN,identity.ap-tokyo-1.oci.oraclecloud.com
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,themoviedb.org
