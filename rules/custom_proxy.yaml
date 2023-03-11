@@ -5,4 +5,6 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,sharkpt.net
+  - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,adaway.org
