@@ -1,1 +1,1 @@
-# clash_rule
+# 自定义clash规则仓库
