@@ -113,6 +113,8 @@ payload:
   - DOMAIN-SUFFIX,uhdbits.org
   - DOMAIN-SUFFIX,xauat6.edu.cn
   - DOMAIN-SUFFIX,sharkpt.net
+  - DOMAIN-SUFFIX,zhuque.in
+  - DOMAIN-SUFFIX,hhanclub.top
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
