@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,opensubtitles.org
