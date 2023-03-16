@@ -1,5 +1,7 @@
 payload:
   - DOMAIN,ghproxy.20120714.xyz
+  - DOMAIN,soft.vpser.net
+  #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,openai.com
