@@ -2,6 +2,6 @@ payload:
   - DOMAIN,ghproxy.20120714.xyz
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
-  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,dmhy.org
