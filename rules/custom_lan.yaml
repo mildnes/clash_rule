@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,ipw.cn
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,bgm.tv
-  - DOMAIN-SUFFIX,live.v1.mk
+  - DOMAIN-SUFFIX,v1.mk
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,091321.XYZ
