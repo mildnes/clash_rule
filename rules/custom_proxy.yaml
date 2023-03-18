@@ -3,6 +3,7 @@ payload:
   - DOMAIN,soft.vpser.net
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,xxlife.gay
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
