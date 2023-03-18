@@ -8,4 +8,5 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,v1.mk
   - DOMAIN-SUFFIX,opensubtitles.org
