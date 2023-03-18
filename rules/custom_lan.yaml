@@ -10,6 +10,7 @@ payload:
   - DOMAIN,insight.synology.com
   ##
   - DOMAIN-SUFFIX,epg.pw
+  - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,ipw.cn
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,bgm.tv
