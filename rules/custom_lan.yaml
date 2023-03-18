@@ -11,6 +11,7 @@ payload:
   ##
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,ipw.cn
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,live.v1.mk
   - DOMAIN-SUFFIX,tailscale.io
