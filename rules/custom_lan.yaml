@@ -9,6 +9,8 @@ payload:
   - DOMAIN,blog.20120714.xyz
   - DOMAIN,live.v1.mk
   - DOMAIN,insight.synology.com
+  - DOMAIN,v2.usxx.xyz
+  - DOMAIN,yd.usxx.xyz
   ##
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
