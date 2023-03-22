@@ -1,6 +1,7 @@
 payload:
   - DOMAIN,ghproxy.20120714.xyz
   - DOMAIN,soft.vpser.net
+  - DOMAIN,op.igotp.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,xxlife.gay
@@ -9,4 +10,3 @@ payload:
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,opensubtitles.org
-  - DOMAIN-SUFFIX,igotp.com
