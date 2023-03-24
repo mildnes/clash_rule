@@ -10,3 +10,5 @@ payload:
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,opensubtitles.org
+  ##
+  - IP-CIDR,183.214.217.251/32
