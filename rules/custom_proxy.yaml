@@ -5,7 +5,6 @@ payload:
   - DOMAIN,pkgs.tailscale.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
-  - DOMAIN-SUFFIX,xxlife.gay
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
