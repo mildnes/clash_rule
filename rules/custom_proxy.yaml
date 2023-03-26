@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,opensubtitles.org
   - DOMAIN-SUFFIX,ap-tokyo-1.oraclecloud.com
+  - DOMAIN-SUFFIX,ap-chuncheon-1.oci.oraclecloud.com
