@@ -10,5 +10,5 @@ payload:
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,opensubtitles.org
-  - DOMAIN-SUFFIX,ap-tokyo-1.oraclecloud.com
-  - DOMAIN-SUFFIX,ap-chuncheon-1.oci.oraclecloud.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,oci.oraclecloud.com
