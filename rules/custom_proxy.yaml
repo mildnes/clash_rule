@@ -2,6 +2,7 @@ payload:
   - DOMAIN,ghproxy.20120714.xyz
   - DOMAIN,soft.vpser.net
   - DOMAIN,op.igotp.com
+  - DOMAIN,pkgs.tailscale.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,xxlife.gay
