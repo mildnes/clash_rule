@@ -17,8 +17,8 @@ payload:
   - DOMAIN-SUFFIX,ipw.cn
   # - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,bgm.tv
-  #- DOMAIN-SUFFIX,tailscale.io
-  #- DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,pornemby.club
