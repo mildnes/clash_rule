@@ -2,11 +2,15 @@ payload:
   - DOMAIN,ghproxy.20120714.xyz
   - DOMAIN,soft.vpser.net
   - DOMAIN,op.igotp.com
+  - DOMAIN,pkgs.tailscale.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
-  - DOMAIN-SUFFIX,xxlife.gay
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,opensubtitles.org
+  - DOMAIN-SUFFIX,oraclecloud.com
+  ##
+  - DOMAIN-KEYWORD,chuncheon-1
+  - DOMAIN-KEYWORD,tokyo-1
