@@ -24,7 +24,6 @@ payload:
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
-  - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,test-ipv6.com
   ##vps
   - IP-CIDR,138.2.1.246/32
