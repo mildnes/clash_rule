@@ -3,6 +3,7 @@ payload:
   - DOMAIN,soft.vpser.net
   - DOMAIN,op.igotp.com
   - DOMAIN,pkgs.tailscale.com
+  - DOMAIN,lic.nolanhhhh.eu.org
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
