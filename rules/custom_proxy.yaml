@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,opensubtitles.org
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,pornemby.club
+  - DOMAIN-SUFFIX,gitee.com
   ##
   - DOMAIN-KEYWORD,chuncheon-1
   - DOMAIN-KEYWORD,tokyo-1
