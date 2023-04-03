@@ -4,6 +4,7 @@ payload:
   - DOMAIN,op.igotp.com
   - DOMAIN,pkgs.tailscale.com
   - DOMAIN,lic.nolanhhhh.eu.org
+  - DOMAIN,captcha.go-cqhttp.org
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
