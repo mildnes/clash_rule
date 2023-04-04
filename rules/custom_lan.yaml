@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,test-ipv6.com
+  #
+  - DOMAIN-KEYWORD,parsec
   ##vps
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,152.67.203.182/32
