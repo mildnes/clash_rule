@@ -15,6 +15,7 @@ payload:
   - DOMAIN,we.jd.com
   - DOMAIN,rpi.zhelee.cn
   - DOMAIN,tz.usxx.xyz
+  - DOMAIN,ark.yanyuwangluo.cn
   ##
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
