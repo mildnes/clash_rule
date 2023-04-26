@@ -5,6 +5,7 @@ payload:
   - DOMAIN,pkgs.tailscale.com
   - DOMAIN,lic.nolanhhhh.eu.org
   - DOMAIN,captcha.go-cqhttp.org
+  - DOMAIN,ark.yanyuwangluo.cn
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
