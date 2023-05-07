@@ -6,6 +6,7 @@ payload:
   - DOMAIN,lic.nolanhhhh.eu.org
   - DOMAIN,captcha.go-cqhttp.org
   - DOMAIN,fastly.jsdelivr.net
+  - DOMAIN,sharkpt.net
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
