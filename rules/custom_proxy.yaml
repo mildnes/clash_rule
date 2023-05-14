@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,sharkpt.net
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,opensubtitles.org
   - DOMAIN-SUFFIX,oraclecloud.com
