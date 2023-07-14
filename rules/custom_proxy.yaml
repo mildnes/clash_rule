@@ -20,7 +20,7 @@ payload:
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,leaves.red
- 
+  - DOMAIN-SUFFIX,chdbits.co
   ##
   - DOMAIN-KEYWORD,chuncheon-1
   - DOMAIN-KEYWORD,tokyo-1
