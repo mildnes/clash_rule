@@ -19,6 +19,7 @@ payload:
   - DOMAIN,129888.xyz
   - DOMAIN,hkt.20120714.xyz
   - DOMAIN,xl.studyfun.live
+  - DOMAIN,music.imetyou.top
   ##
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
@@ -44,3 +45,4 @@ payload:
   - IP-CIDR,132.226.202.238/32
   - IP-CIDR,158.101.72.170/32
   - IP-CIDR,150.230.210.179/32
+  - IP-CIDR,144.24.79.38/32
