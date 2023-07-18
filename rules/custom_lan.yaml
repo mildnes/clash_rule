@@ -20,6 +20,9 @@ payload:
   - DOMAIN,hkt.20120714.xyz
   - DOMAIN,xl.studyfun.live
   - DOMAIN,music.imetyou.top
+  ## 🐔野鸡服
+  - DOMAIN,xl.studyfun.live
+  - DOMAIN,v.20120714.xyz
   ##
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
