@@ -34,6 +34,9 @@ payload:
   - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,test-ipv6.com
+  # 笔趣阁
+  - DOMAIN-SUFFIX,xbiquge.tw
+  - DOMAIN-SUFFIX,xbiquge.bz
   #
   - DOMAIN-KEYWORD,parsec
   ##vps
