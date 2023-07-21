@@ -37,6 +37,7 @@ payload:
   # 笔趣阁
   - DOMAIN-SUFFIX,xbiquge.tw
   - DOMAIN-SUFFIX,xbiquge.bz
+  - DOMAIN-SUFFIX,vbiquge.org
   #
   - DOMAIN-KEYWORD,parsec
   ##vps
