@@ -27,6 +27,9 @@ payload:
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,ipw.cn
+  ## plex
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,sentry.io
   # - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,tailscale.io
