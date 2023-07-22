@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,chdbits.co
+  - DOMAIN-SUFFIX,google.cn
   ##
   - DOMAIN-KEYWORD,chuncheon-1
   - DOMAIN-KEYWORD,tokyo-1
