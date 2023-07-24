@@ -20,6 +20,7 @@ payload:
   - DOMAIN,hkt.20120714.xyz
   - DOMAIN,xl.studyfun.live
   - DOMAIN,music.imetyou.top
+  - DOMAIN,sgp.005158.xyz
   ## 🐔野鸡服
   - DOMAIN,xl.studyfun.live
   - DOMAIN,v.20120714.xyz
@@ -56,3 +57,4 @@ payload:
   - IP-CIDR,158.101.72.170/32
   - IP-CIDR,131.186.46.130/32
   - IP-CIDR,144.24.79.38/32
+  - IP-CIDR,129.150.32.0/19
