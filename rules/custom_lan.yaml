@@ -42,8 +42,12 @@ payload:
   - DOMAIN-SUFFIX,xbiquge.tw
   - DOMAIN-SUFFIX,xbiquge.bz
   - DOMAIN-SUFFIX,vbiquge.org
+  - DOMAIN-SUFFIX,7017k.net
+  - DOMAIN-SUFFIX,ibiquge.la
+  - DOMAIN-SUFFIX,kanshushi.com
   #
   - DOMAIN-KEYWORD,parsec
+  - DOMAIN-KEYWORD,xbiquge
   ##vps
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,43.154.4.40/32
