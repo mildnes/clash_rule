@@ -62,6 +62,8 @@ payload:
   - DOMAIN-SUFFIX,xaanr.com
   - DOMAIN-SUFFIX,gxyh.org
   - DOMAIN-SUFFIX,wenxuem.com
+  - DOMAIN-SUFFIX,feiazw.com
+  - DOMAIN-SUFFIX,aitbooks.com
   #-
   - DOMAIN-KEYWORD,parsec
   ##vps
