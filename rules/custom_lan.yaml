@@ -58,7 +58,9 @@ payload:
   - DOMAIN-SUFFIX,biquge34.net
   - DOMAIN-SUFFIX,yeziwx.com
   - DOMAIN-SUFFIX,wucuoxs.com
-  #
+  - DOMAIN-SUFFIX,zztxt.net
+  - DOMAIN-SUFFIX,xaanr.com
+  #-
   - DOMAIN-KEYWORD,parsec
   ##vps
   - IP-CIDR,138.2.1.246/32
