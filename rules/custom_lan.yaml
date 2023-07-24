@@ -38,16 +38,21 @@ payload:
   - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,test-ipv6.com
-  # 笔趣阁
+  # 小说源
+  - DOMAIN-KEYWORD,xbiquge
   - DOMAIN-SUFFIX,xbiquge.tw
   - DOMAIN-SUFFIX,xbiquge.bz
   - DOMAIN-SUFFIX,vbiquge.org
   - DOMAIN-SUFFIX,7017k.net
   - DOMAIN-SUFFIX,ibiquge.la
   - DOMAIN-SUFFIX,kanshushi.com
+  - DOMAIN-SUFFIX,hsjsby.com
+  - DOMAIN-SUFFIX,axeslide.com
+  - DOMAIN-SUFFIX,xqb5.org
+  - DOMAIN-SUFFIX,feibzw.com
+  - DOMAIN-SUFFIX,ibiquges.info
   #
   - DOMAIN-KEYWORD,parsec
-  - DOMAIN-KEYWORD,xbiquge
   ##vps
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,43.154.4.40/32
