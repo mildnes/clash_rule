@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,feiazw.com
   - DOMAIN-SUFFIX,aitbooks.com
   - DOMAIN-SUFFIX,mayiwxw.com
+  - DOMAIN-SUFFIX,zhuishu.la
   - DOMAIN-KEYWORD,parsec
   ##vps
   - IP-CIDR,138.2.1.246/32
