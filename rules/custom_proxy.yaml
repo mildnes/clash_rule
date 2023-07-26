@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,supes.top
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sharkpt.net
   - DOMAIN-SUFFIX,dmhy.org
