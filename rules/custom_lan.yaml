@@ -4,6 +4,7 @@ payload:
   - DOMAIN,ark.usxx.xyz
   - DOMAIN,arm.usxx.xyz
   - DOMAIN,tk.usxx.xyz
+  - DOMAIN,tz.usxx.xyz
   - DOMAIN,dpj.usxx.xyz
   - DOMAIN,nnnolanark.xyz
   - DOMAIN,blog.20120714.xyz
@@ -14,7 +15,6 @@ payload:
   - DOMAIN,wxpusher.zjiecode.com
   - DOMAIN,we.jd.com
   - DOMAIN,rpi.zhelee.cn
-  - DOMAIN,tz.usxx.xyz
   - DOMAIN,ark.yanyuwangluo.cn
   - DOMAIN,129888.xyz
   - DOMAIN,hkt.20120714.xyz
