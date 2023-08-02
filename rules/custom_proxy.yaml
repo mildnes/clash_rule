@@ -7,7 +7,6 @@ payload:
   - DOMAIN,captcha.go-cqhttp.org
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN,sp0.baidu.com
-  - DOMAIN,xl.studyfun.live #野鸡服
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org

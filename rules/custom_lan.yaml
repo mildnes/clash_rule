@@ -22,8 +22,7 @@ payload:
   - DOMAIN,music.imetyou.top
   - DOMAIN,sgp.005158.xyz
   - DOMAIN,dash.cloudflare.com
-  ## 🐔野鸡服
-  - DOMAIN,v.20120714.xyz
+
   ##
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
@@ -92,4 +91,3 @@ payload:
   - IP-CIDR,140.238.30.0/18
   - IP-CIDR,158.101.147.0/24
   - IP-CIDR,141.147.170.0/18
-  - IP-CIDR,158.180.64.0/18
