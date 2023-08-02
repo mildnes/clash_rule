@@ -24,7 +24,7 @@ payload:
   - DOMAIN,dash.cloudflare.com
   ## 🐔野鸡服
   - DOMAIN,v.20120714.xyz
-  - IP-CIDR,13.33.96.22
+  - IP-CIDR,13.33.96.22/32
   # - IP-CIDR,158.180.64.0/18
   - DOMAIN,xl.studyfun.live
   ##
