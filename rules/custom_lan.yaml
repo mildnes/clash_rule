@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,ybwzx9.com
   - DOMAIN-KEYWORD,parsec
   ##vps
+  - IP-CIDR,13.33.96.22/32
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,43.154.4.40/32
   - IP-CIDR,150.230.0.0/8
