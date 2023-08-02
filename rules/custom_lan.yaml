@@ -23,7 +23,7 @@ payload:
   - DOMAIN,sgp.005158.xyz
   - DOMAIN,dash.cloudflare.com
   ## 🐔野鸡服
-  - DOMAIN,v.20120714.xyz
+  #- DOMAIN,v.20120714.xyz
   - IP-CIDR,158.180.64.0/18
   - DOMAIN,xl.studyfun.live
   ##
@@ -74,7 +74,6 @@ payload:
   - DOMAIN-SUFFIX,ybwzx9.com
   - DOMAIN-KEYWORD,parsec
   ##vps
-  - IP-CIDR,13.33.96.22/32
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,43.154.4.40/32
   - IP-CIDR,150.230.0.0/8
