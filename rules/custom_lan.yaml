@@ -28,6 +28,8 @@ payload:
   - IP-CIDR,18.65.221.107/32
   - IP-CIDR,158.180.64.0/18
   - DOMAIN,xl.studyfun.live
+  - DOMAIN,orjp2.20120714.xyz
+  - DOMAIN,orjp3.20120714.xyz
   ##
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
