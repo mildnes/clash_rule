@@ -22,6 +22,7 @@ payload:
   - DOMAIN,music.imetyou.top
   - DOMAIN,sgp.005158.xyz
   - DOMAIN,dash.cloudflare.com
+  - DOMAIN,cmcc.52nanami.cn
   ## 🐔野鸡服
   - DOMAIN,v.20120714.xyz
   - IP-CIDR,13.33.96.22/32
