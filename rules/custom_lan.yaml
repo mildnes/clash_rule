@@ -40,8 +40,8 @@ payload:
   - DOMAIN-SUFFIX,910321.xyz
   - DOMAIN-SUFFIX,091321.xyz
   ## plex
-  - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN-SUFFIX,sentry.io
+ #  - DOMAIN-SUFFIX,plex.tv
+ # - DOMAIN-SUFFIX,sentry.io
   # - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,tailscale.io
