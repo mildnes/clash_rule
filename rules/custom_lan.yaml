@@ -46,7 +46,6 @@ payload:
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
-  - DOMAIN-SUFFIX,091321.XYZ
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,test-ipv6.com
   # 小说源
