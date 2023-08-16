@@ -5,6 +5,7 @@ payload:
   - DOMAIN,arm.usxx.xyz
   - DOMAIN,tk.usxx.xyz
   - DOMAIN,tz.usxx.xyz
+  - DOMAIN,v2.usxx.xyz
   # - DOMAIN,tz.910321.xyz
   # - DOMAIN,tzcdn.usxx.xyz
   - DOMAIN,dpj.usxx.xyz
@@ -12,8 +13,6 @@ payload:
   - DOMAIN,blog.20120714.xyz
   - DOMAIN,live.v1.mk
   - DOMAIN,insight.synology.com
-  - DOMAIN,v2.usxx.xyz
-  - DOMAIN,yd.usxx.xyz
   - DOMAIN,wxpusher.zjiecode.com
   - DOMAIN,we.jd.com
   - DOMAIN,rpi.zhelee.cn
@@ -25,7 +24,7 @@ payload:
   - DOMAIN,dash.cloudflare.com
   - DOMAIN,cmcc.52nanami.cn
   - DOMAIN,qyapi.weixin.qq.com
-  ## 🐔野鸡服
+  ## Emby公益服
   - DOMAIN,v.20120714.xyz
   - IP-CIDR,13.33.96.22/32
   - IP-CIDR,18.65.221.107/32
@@ -33,10 +32,12 @@ payload:
   - DOMAIN,xl.studyfun.live
   - DOMAIN,orjp2.20120714.xyz
   - DOMAIN,orjp3.20120714.xyz
-  ##
+  - DOMAIN-SUFFIX,emby.misakaf.org
+  - DOMAIN-SUFFIX,emby2.misakaf.org
+  - DOMAIN-SUFFIX,embyvip.misakaf.org
+  ## 其他
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
-  - DOMAIN-SUFFIX,ipw.cn
   - DOMAIN-SUFFIX,cpu-world.com
   - DOMAIN-SUFFIX,910321.xyz
   - DOMAIN-SUFFIX,091321.xyz
