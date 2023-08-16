@@ -5,7 +5,7 @@ payload:
   - DOMAIN,arm.usxx.xyz
   - DOMAIN,tk.usxx.xyz
   - DOMAIN,tz.usxx.xyz
-  - DOMAIN,tz.910321.xyz
+  #- DOMAIN,tz.910321.xyz
   - DOMAIN,tzcdn.usxx.xyz
   - DOMAIN,dpj.usxx.xyz
   - DOMAIN,nnnolanark.xyz
