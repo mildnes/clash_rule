@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,docker.com
   ##
   - DOMAIN-KEYWORD,chuncheon-1
   - DOMAIN-KEYWORD,tokyo-1
