@@ -12,15 +12,14 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,supes.top
   - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,sharkpt.net
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,opensubtitles.org
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,bangumi.tv
   ##
   - DOMAIN-KEYWORD,chuncheon-1
   - DOMAIN-KEYWORD,tokyo-1
