@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
 
   - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,nastool.org
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,hnyibai.com
