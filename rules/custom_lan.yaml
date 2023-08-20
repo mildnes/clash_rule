@@ -6,7 +6,7 @@ payload:
   - DOMAIN,tk.usxx.xyz
   - DOMAIN,tz.usxx.xyz
   - DOMAIN,v2.usxx.xyz
-  # - DOMAIN,mirror-hk.koddos.net
+  - DOMAIN,mirrors.cloud.aliyuncs.com.localdomain
   # - DOMAIN,tz.910321.xyz
   # - DOMAIN,tzcdn.usxx.xyz
   - DOMAIN,dpj.usxx.xyz
