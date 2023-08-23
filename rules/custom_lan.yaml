@@ -45,7 +45,7 @@ payload:
   ## plex
   #- DOMAIN-SUFFIX,plex.tv
   #- DOMAIN-SUFFIX,sentry.io
-
+  - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,nastool.org
   - DOMAIN-SUFFIX,tailscale.io
