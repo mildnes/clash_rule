@@ -6,11 +6,10 @@ payload:
   - DOMAIN,tk.usxx.xyz
   - DOMAIN,tz.usxx.xyz
   - DOMAIN,v2.usxx.xyz
-  # - DOMAIN,tz.910321.xyz
-  # - DOMAIN,tzcdn.usxx.xyz
+  - DOMAIN,mirrors.cloud.aliyuncs.com.localdomain
+  - DOMAIN,api.ip.sb
   - DOMAIN,dpj.usxx.xyz
   - DOMAIN,nnnolanark.xyz
-  - DOMAIN,blog.20120714.xyz
   - DOMAIN,live.v1.mk
   - DOMAIN,insight.synology.com
   - DOMAIN,wxpusher.zjiecode.com
@@ -18,7 +17,6 @@ payload:
   - DOMAIN,rpi.zhelee.cn
   - DOMAIN,ark.yanyuwangluo.cn
   - DOMAIN,129888.xyz
-  - DOMAIN,hkt.20120714.xyz
   - DOMAIN,music.imetyou.top
   - DOMAIN,sgp.005158.xyz
   # - DOMAIN,dash.cloudflare.com
@@ -42,10 +40,11 @@ payload:
   - DOMAIN-SUFFIX,910321.xyz
   - DOMAIN-SUFFIX,091321.xyz
   ## plex
-  - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN-SUFFIX,sentry.io
-
+  #- DOMAIN-SUFFIX,plex.tv
+  #- DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,nastool.org
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,hnyibai.com
@@ -84,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,ybwzx9.com
   - DOMAIN-KEYWORD,parsec
   ##vps
+  - IP-CIDR,141.147.174.183
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,43.154.4.40/32
   - IP-CIDR,150.230.0.0/8

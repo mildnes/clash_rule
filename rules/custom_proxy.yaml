@@ -7,20 +7,18 @@ payload:
   - DOMAIN,captcha.go-cqhttp.org
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN,sp0.baidu.com
+  - DOMAIN,tzcdn.usxx.xyz
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,supes.top
   - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,sharkpt.net
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,opensubtitles.org
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,chdbits.co
-  - DOMAIN-SUFFIX,docker.com
   ##
   - DOMAIN-KEYWORD,chuncheon-1
   - DOMAIN-KEYWORD,tokyo-1

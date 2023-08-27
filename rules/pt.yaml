@@ -2,6 +2,8 @@ payload:
   ##PT
   - DOMAIN,tracker.sharkpt.net
   - DOMAIN-SUFFIX,52pt.site
+  - DOMAIN-SUFFIX,xp.m-team.io
+  - DOMAIN-SUFFIX,bangumi.tv
   - DOMAIN-SUFFIX,aidoru-online.me
   - DOMAIN-SUFFIX,alpharatio.cc
   - DOMAIN-SUFFIX,animebytes.tv
