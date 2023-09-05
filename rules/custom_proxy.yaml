@@ -8,9 +8,9 @@ payload:
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN,sp0.baidu.com
   - DOMAIN,tzcdn.usxx.xyz
-  - DOMAIN,get.geojs.io
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,geojs.io
   - DOMAIN-SUFFIX,traefik.io
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,supes.top
