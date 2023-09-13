@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,test-ipv6.com
   # 小说源
+  - DOMAIN-SUFFIX,myip.la
   - DOMAIN-KEYWORD,xbiquge
   - DOMAIN-SUFFIX,xbiquge.tw
   - DOMAIN-SUFFIX,xbiquge.bz
