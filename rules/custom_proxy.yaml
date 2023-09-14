@@ -8,6 +8,7 @@ payload:
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN,sp0.baidu.com
   - DOMAIN,tzcdn.usxx.xyz
+  - DOMAIN,production.cloudflare.docker.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,docker.io
