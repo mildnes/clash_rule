@@ -10,6 +10,7 @@ payload:
   - DOMAIN,tzcdn.usxx.xyz
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,geojs.io
   - DOMAIN-SUFFIX,traefik.io
   - DOMAIN-SUFFIX,themoviedb.org
