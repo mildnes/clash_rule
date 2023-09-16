@@ -118,7 +118,7 @@ payload:
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,chdbits.xyz
   - DOMAIN-SUFFIX,xauat6.edu.cn
-##  - DOMAIN-SUFFIX,zhuque.in
+  - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,hhanclub.top
   - DOMAIN-SUFFIX,greatposterwall.com
   - DOMAIN-SUFFIX,leaves.red
