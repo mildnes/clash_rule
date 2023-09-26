@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,gitee.com
+  - DOMAIN-SUFFIX,fastmail.com
   - DOMAIN-SUFFIX,githubusercontent.com
   ##
   - DOMAIN-KEYWORD,chuncheon-1
