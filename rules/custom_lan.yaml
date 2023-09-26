@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,cpu-world.com
   - DOMAIN-SUFFIX,910321.xyz
   - DOMAIN-SUFFIX,091321.xyz
+  - DOMAIN-SUFFIX,fastmail.com
   ## plex
   #- DOMAIN-SUFFIX,plex.tv
   #- DOMAIN-SUFFIX,sentry.io
