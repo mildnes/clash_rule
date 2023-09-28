@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,emby.misakaf.org
   - DOMAIN-SUFFIX,emby2.misakaf.org
   - DOMAIN-SUFFIX,embyvip.misakaf.org
+  - DOMAIN-SUFFIX,cloudflare-cn.com
   ## 其他
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
