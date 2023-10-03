@@ -11,7 +11,6 @@ payload:
   - DOMAIN,production.cloudflare.docker.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
-  - DOMAIN-SUFFIX:chiphell.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,geojs.io
   - DOMAIN-SUFFIX,traefik.io
