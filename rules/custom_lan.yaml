@@ -5,6 +5,7 @@ payload:
   - DOMAIN,arm.usxx.xyz
   - DOMAIN,tk.usxx.xyz
   - DOMAIN,tz.usxx.xyz
+  - DOMAIN:tz.910321.xyz
   - DOMAIN,v2.usxx.xyz
   - DOMAIN,mirrors.cloud.aliyuncs.com.localdomain
   - DOMAIN,api.ip.sb
