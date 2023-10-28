@@ -29,3 +29,4 @@ payload:
   - DOMAIN-KEYWORD,chuncheon-1
   - DOMAIN-KEYWORD,tokyo-1
   - DOMAIN-SUFFIX,zhuque.in
+  - DOMAIN-SUFFIX,docker.com
