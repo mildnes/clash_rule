@@ -87,6 +87,7 @@ payload:
   - DOMAIN-SUFFIX,qikuaiwx.com
   - DOMAIN-SUFFIX,zym888.com
   - DOMAIN-SUFFIX,ybwzx9.com
+  - DOMAIN-SUFFIX,quickconnect.to
   - DOMAIN-KEYWORD,parsec
   ##vps
   - IP-CIDR,141.147.174.183
