@@ -23,6 +23,8 @@ payload:
   - DOMAIN,cmcc.52nanami.cn
   - DOMAIN,qyapi.weixin.qq.com
   - DOMAIN,openapi.aliyundrive.com
+  - DOMAIN,subscribe.insight.synology.com
+  
   ## Emby公益服
   - DOMAIN,v.20120714.xyz
   - IP-CIDR,13.33.96.22/32
