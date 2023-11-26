@@ -25,6 +25,7 @@ payload:
   - DOMAIN,openapi.aliyundrive.com
   - DOMAIN,subscribe.insight.synology.com
   - DOMAIN,api.insight.synology.com
+  - DOMAIN,dash.pandoranext.com
 
   ## Emby公益服
   - DOMAIN,v.20120714.xyz
