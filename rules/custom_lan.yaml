@@ -25,7 +25,6 @@ payload:
   - DOMAIN,openapi.aliyundrive.com
   - DOMAIN,subscribe.insight.synology.com
   - DOMAIN,api.insight.synology.com
-  - DOMAIN,dash.pandoranext.com
 
   ## Emby公益服
   - DOMAIN,v.20120714.xyz
@@ -40,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,embyvip.misakaf.org
   - DOMAIN-SUFFIX,cloudflare-cn.com
   - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,pandoranext.com
   ## 其他
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
