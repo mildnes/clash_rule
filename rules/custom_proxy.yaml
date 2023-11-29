@@ -9,6 +9,7 @@ payload:
   - DOMAIN,sp0.baidu.com
   - DOMAIN,tzcdn.usxx.xyz
   - DOMAIN,production.cloudflare.docker.com
+  - DOMAIN,acme-v02.api.letsencrypt.org
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,docker.io
