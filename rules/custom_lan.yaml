@@ -1,8 +1,5 @@
 payload:
   ##VPS
-  - DOMAIN,kr.usxx.xyz
-  - DOMAIN,ark.usxx.xyz
-  - DOMAIN,arm.usxx.xyz
   - DOMAIN,tk.usxx.xyz
   - DOMAIN,tz.usxx.xyz
   - DOMAIN:tz.910321.xyz
