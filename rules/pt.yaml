@@ -2,6 +2,7 @@ payload:
   ##PT
   - DOMAIN,tracker.sharkpt.net
   - DOMAIN-SUFFIX,zhuque.in
+  - DOMAIN-SUFFIX,star-space.net
   - DOMAIN-SUFFIX,sharkpt.net
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN-SUFFIX,xp.m-team.io
