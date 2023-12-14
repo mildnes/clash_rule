@@ -11,6 +11,7 @@ payload:
   - DOMAIN,production.cloudflare.docker.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,ohmygpt.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,geojs.io
