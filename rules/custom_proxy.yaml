@@ -9,6 +9,7 @@ payload:
   - DOMAIN,sp0.baidu.com
   - DOMAIN,tzcdn.usxx.xyz
   - DOMAIN,production.cloudflare.docker.com
+  - DOMAIN-SUFFIX,larksuite.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,ohmygpt.com
