@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,larksuite.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ohmygpt.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,duckduckgo.com
