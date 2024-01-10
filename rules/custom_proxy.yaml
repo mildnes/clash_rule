@@ -10,6 +10,7 @@ payload:
   - DOMAIN,tzcdn.usxx.xyz
   - DOMAIN,production.cloudflare.docker.com
   - DOMAIN-SUFFIX,larksuite.com
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
   #xxx
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,huggingface.co
