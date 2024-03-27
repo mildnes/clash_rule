@@ -1,10 +1,8 @@
 payload:
   ##VPS
-  - DOMAIN,kr.usxx.xyz
-  - DOMAIN,ark.usxx.xyz
-  - DOMAIN,arm.usxx.xyz
   - DOMAIN,tk.usxx.xyz
   - DOMAIN,tz.usxx.xyz
+  - DOMAIN:tz.910321.xyz
   - DOMAIN,v2.usxx.xyz
   - DOMAIN,mirrors.cloud.aliyuncs.com.localdomain
   - DOMAIN,api.ip.sb
@@ -19,9 +17,12 @@ payload:
   - DOMAIN,129888.xyz
   - DOMAIN,music.imetyou.top
   - DOMAIN,sgp.005158.xyz
-  # - DOMAIN,dash.cloudflare.com
   - DOMAIN,cmcc.52nanami.cn
   - DOMAIN,qyapi.weixin.qq.com
+  - DOMAIN,openapi.aliyundrive.com
+  - DOMAIN,subscribe.insight.synology.com
+  - DOMAIN,api.insight.synology.com
+
   ## Emby公益服
   - DOMAIN,v.20120714.xyz
   - IP-CIDR,13.33.96.22/32
@@ -33,6 +34,9 @@ payload:
   - DOMAIN-SUFFIX,emby.misakaf.org
   - DOMAIN-SUFFIX,emby2.misakaf.org
   - DOMAIN-SUFFIX,embyvip.misakaf.org
+  - DOMAIN-SUFFIX,cloudflare-cn.com
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,pandoranext.com
   ## 其他
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
@@ -40,8 +44,8 @@ payload:
   - DOMAIN-SUFFIX,910321.xyz
   - DOMAIN-SUFFIX,091321.xyz
   ## plex
-  #- DOMAIN-SUFFIX,plex.tv
-  #- DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,nastool.org
@@ -50,10 +54,14 @@ payload:
   - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,test-ipv6.com
   # 小说源
+  - DOMAIN-SUFFIX,myip.la
   - DOMAIN-KEYWORD,xbiquge
   - DOMAIN-SUFFIX,xbiquge.tw
   - DOMAIN-SUFFIX,xbiquge.bz
   - DOMAIN-SUFFIX,vbiquge.org
+  - DOMAIN-SUFFIX,121du.net
+  - DOMAIN-SUFFIX,121ds.cc
+  - DOMAIN-SUFFIX,tqcyjy.com
   - DOMAIN-SUFFIX,7017k.net
   - DOMAIN-SUFFIX,ibiquge.la
   - DOMAIN-SUFFIX,kanshushi.com
@@ -81,12 +89,15 @@ payload:
   - DOMAIN-SUFFIX,qikuaiwx.com
   - DOMAIN-SUFFIX,zym888.com
   - DOMAIN-SUFFIX,ybwzx9.com
+  - DOMAIN-SUFFIX,quickconnect.to
   - DOMAIN-KEYWORD,parsec
   ##vps
   - IP-CIDR,141.147.174.183
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,43.154.4.40/32
+  - IP-CIDR,158.179.176.231/32
   - IP-CIDR,150.230.0.0/8
+  - IP-CIDR,150.230.208.180
   - IP-CIDR,158.101.91.223/32
   - IP-CIDR,89.58.55.173/32
   - IP-CIDR,132.226.202.238/32
@@ -104,3 +115,6 @@ payload:
   - IP-CIDR,140.238.30.0/18
   - IP-CIDR,158.101.147.0/24
   - IP-CIDR,141.147.170.0/18
+  - IP-CIDR,18.207.178.0/24
+  - SRC-IP-CIDR,192.168.88.89/32
+  - IP-CIDR,138.2.15.160/32

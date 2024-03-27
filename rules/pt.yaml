@@ -1,8 +1,12 @@
 payload:
   ##PT
   - DOMAIN,tracker.sharkpt.net
+  - DOMAIN-SUFFIX,zhuque.in
+  - DOMAIN-SUFFIX,star-space.net
+  - DOMAIN-SUFFIX,sharkpt.net
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN-SUFFIX,xp.m-team.io
+  - DOMAIN-SUFFIX,u2.dmhy.org
   - DOMAIN-SUFFIX,bangumi.tv
   - DOMAIN-SUFFIX,aidoru-online.me
   - DOMAIN-SUFFIX,alpharatio.cc
@@ -118,7 +122,6 @@ payload:
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,chdbits.xyz
   - DOMAIN-SUFFIX,xauat6.edu.cn
-##  - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,hhanclub.top
   - DOMAIN-SUFFIX,greatposterwall.com
   - DOMAIN-SUFFIX,leaves.red
