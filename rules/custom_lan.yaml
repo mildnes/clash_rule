@@ -1,9 +1,22 @@
 payload:
+  ### adobe
+  - DOMAIN,adobe.com
+  - DOMAIN,bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org
+  ### 直连Emby
+  - DOMAIN,p.once.im
+  - DOMAIN,g.once.im
+  - DOMAIN,sptv.ii00.cc
+  - DOMAIN,sgtv.ii00.cc
+  - DOMAIN,cn-music.mefun.vip
   ##VPS
+  - DOMAIN,qyapi.weixin.qq.com
   - DOMAIN,tk.usxx.xyz
+  - DOMAIN,tk2.usxx.xyz
+  - DOMAIN,hk.usxx.xyz
   - DOMAIN,tz.usxx.xyz
   - DOMAIN:tz.910321.xyz
   - DOMAIN,v2.usxx.xyz
+  - DOMAIN,docker.naslabs.net
   - DOMAIN,mirrors.cloud.aliyuncs.com.localdomain
   - DOMAIN,api.ip.sb
   - DOMAIN,dpj.usxx.xyz
@@ -23,77 +36,28 @@ payload:
   - DOMAIN,subscribe.insight.synology.com
   - DOMAIN,api.insight.synology.com
   - DOMAIN,plex.20120714.xyz
-
-  ## Emby公益服
-  - DOMAIN,v.20120714.xyz
-  - IP-CIDR,13.33.96.22/32
-  - IP-CIDR,18.65.221.107/32
-  - IP-CIDR,158.180.64.0/18
-  - DOMAIN,xl.studyfun.live
-  - DOMAIN,orjp2.20120714.xyz
-  - DOMAIN,orjp3.20120714.xyz
-  - DOMAIN-SUFFIX,emby.misakaf.org
-  - DOMAIN-SUFFIX,emby2.misakaf.org
-  - DOMAIN-SUFFIX,embyvip.misakaf.org
-  - DOMAIN-SUFFIX,cloudflare-cn.com
-  - DOMAIN-SUFFIX,synology.com
-  - DOMAIN-SUFFIX,pandoranext.com
+  - DOMAIN,docker.naslabs.net
+  - DOMAIN,hkhy.150212.xyz
+  ## ACA机场
+  - DOMAIN,api.acaisbest.shop
   ## 其他
   - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,cpu-world.com
-  - DOMAIN-SUFFIX,910321.xyz
   - DOMAIN-SUFFIX,091321.xyz
-  ## plex
-  - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN-SUFFIX,sentry.io
+  ## other
   - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,nastool.org
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
-  - DOMAIN-SUFFIX,hnyibai.com
   - DOMAIN-SUFFIX,test-ipv6.com
-  # 小说源
-  - DOMAIN-SUFFIX,myip.la
-  - DOMAIN-KEYWORD,xbiquge
-  - DOMAIN-SUFFIX,xbiquge.tw
-  - DOMAIN-SUFFIX,xbiquge.bz
-  - DOMAIN-SUFFIX,vbiquge.org
-  - DOMAIN-SUFFIX,121du.net
-  - DOMAIN-SUFFIX,121ds.cc
-  - DOMAIN-SUFFIX,tqcyjy.com
-  - DOMAIN-SUFFIX,7017k.net
-  - DOMAIN-SUFFIX,ibiquge.la
-  - DOMAIN-SUFFIX,kanshushi.com
-  - DOMAIN-SUFFIX,hsjsby.com
-  - DOMAIN-SUFFIX,axeslide.com
-  - DOMAIN-SUFFIX,xqb5.org
-  - DOMAIN-SUFFIX,feibzw.com
-  - DOMAIN-SUFFIX,ibiquges.info
-  - DOMAIN-SUFFIX,soumal.com
-  - DOMAIN-SUFFIX,xuanyge.net
-  - DOMAIN-SUFFIX,xqb5.org
-  - DOMAIN-SUFFIX,baihexsw.com
-  - DOMAIN-SUFFIX,biquge34.net
-  - DOMAIN-SUFFIX,yeziwx.com
-  - DOMAIN-SUFFIX,wucuoxs.com
-  - DOMAIN-SUFFIX,zztxt.net
-  - DOMAIN-SUFFIX,xaanr.com
-  - DOMAIN-SUFFIX,gxyh.org
-  - DOMAIN-SUFFIX,wenxuem.com
-  - DOMAIN-SUFFIX,feiazw.com
-  - DOMAIN-SUFFIX,aitbooks.com
-  - DOMAIN-SUFFIX,mayiwxw.com
-  - DOMAIN-SUFFIX,zhuishu.la
-  - DOMAIN-SUFFIX,zjsw.org
-  - DOMAIN-SUFFIX,qikuaiwx.com
-  - DOMAIN-SUFFIX,zym888.com
-  - DOMAIN-SUFFIX,ybwzx9.com
-  - DOMAIN-SUFFIX,quickconnect.to
-  - DOMAIN-KEYWORD,parsec
+
   ##vps
-  - IP-CIDR,141.147.174.183
+  - IP-CIDR,47.238.119.141/32
+  - IP-CIDR,47.79.39.27/32
+  - IP-CIDR,140.245.82.119/32
+  - IP-CIDR,141.147.174.183/32
   - IP-CIDR,138.2.1.246/32
   - IP-CIDR,43.154.4.40/32
   - IP-CIDR,158.179.176.231/32
@@ -119,3 +83,5 @@ payload:
   - IP-CIDR,18.207.178.0/24
   - SRC-IP-CIDR,192.168.88.89/32
   - IP-CIDR,138.2.15.160/32
+  - IP-CIDR,138.2.10.84/32
+  - IP-CIDR,158.101.158.189/32
