@@ -1,6 +1,6 @@
 payload:
   ##PT
-  - DOMAIN,tracker.sharkpt.net
+  - DOMAIN-SUFFIX,leaves.red
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,star-space.net
   - DOMAIN-SUFFIX,sharkpt.net
@@ -71,7 +71,6 @@ payload:
   - DOMAIN-SUFFIX,hitpt.com
   - DOMAIN-SUFFIX,hitpt.org
   - DOMAIN-SUFFIX,hudbt.hust.edu.cn
-  - DOMAIN-SUFFIX,piggo.me
   - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,iptorrents.com
   - DOMAIN-SUFFIX,j99.info
@@ -80,7 +79,7 @@ payload:
   - DOMAIN-SUFFIX,karagarga.in
   - DOMAIN-SUFFIX,keepfrds.com
   - DOMAIN-SUFFIX,leaguehd.com
-  - DOMAIN-SUFFIX,lemonhd.org
+  - DOMAIN-SUFFIX,lemonhd.club
   - DOMAIN-SUFFIX,lztr.me
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,madsrevolution.net
@@ -119,12 +118,38 @@ payload:
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,trontv.com
   - DOMAIN-SUFFIX,uhdbits.org
+  - DOMAIN-SUFFIX,qingwapt.com
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,chdbits.xyz
   - DOMAIN-SUFFIX,xauat6.edu.cn
   - DOMAIN-SUFFIX,hhanclub.top
   - DOMAIN-SUFFIX,greatposterwall.com
-  - DOMAIN-SUFFIX,leaves.red
+  - DOMAIN,tracker01.ilovelemonhd.me
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
+  ## XXXX VIP服
+  - DOMAIN,wptv.ii00.cc
+  - DOMAIN,wgtv.ii00.cc
+  - DOMAIN,cfptv.ii00.cc
+  - DOMAIN,cfgtv.ii00.cc
+  - DOMAIN,music.mefun.vip
+  ## Emby公益服
+  - DOMAIN,v.20120714.xyz
+  - DOMAIN,xl.studyfun.live
+  - DOMAIN,orjp2.20120714.xyz
+  - DOMAIN,orjp3.20120714.xyz
+  - DOMAIN,emby.misakaf.org
+  - DOMAIN,emby2.misakaf.org
+  - DOMAIN,embyvip.misakaf.org
+  - DOMAIN,cloudflare-cn.com
+  - DOMAIN,synology.com
+  - DOMAIN,pandoranext.com
+  - DOMAIN,rd.happyav.eu.org
+  ## 直连服
+  - DOMAIN,monisaiche.cn
+  - DOMAIN,emby11.02120913.xyz
+  - DOMAIN,233778.xyz
+  - IP-CIDR,13.33.96.22/32
+  - IP-CIDR,18.65.221.107/32
+  - IP-CIDR,158.180.64.0/18
