@@ -8,15 +8,27 @@ payload:
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN,sp0.baidu.com
   - DOMAIN,tzcdn.usxx.xyz
-  - DOMAIN,production.cloudflare.docker.com
-  - DOMAIN-SUFFIX,larksuite.com
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
-  - DOMAIN,security.debian.org
+  - DOMAIN,api.tmdb.org
+  - DOMAIN,image.tmdb.org
+  - DOMAIN,tzcdn.usxx.xyz
+  ## plex
+  - DOMAIN,downloads.plex.tv
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN,metadata-static.plex.tv
+  - DOMAIN,metadata.provider.plex.tv
+  - DOMAIN-KEYWORD,metadata
+  - DOMAIN,meta.plex.tv
+
   #xxx
+  - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-SUFFIX,xmancdn.com
+  - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ohmygpt.com
-  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,geojs.io
   - DOMAIN-SUFFIX,traefik.io
@@ -29,11 +41,19 @@ payload:
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,fastmail.com
-  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,leaves.red
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,docker.com
   ##
   - DOMAIN-KEYWORD,chuncheon-1
   - DOMAIN-KEYWORD,tokyo-1
-  - DOMAIN-SUFFIX,docker.com
-
-  ## AI
-  - DOMAIN-SUFFIX,groq.com
+  ## 电视盒子
+  - DOMAIN-SUFFIX,gyssi.link
+  ## corona
+  - DOMAIN-SUFFIX,corona-renderer.com
+  - DOMAIN-SUFFIX,chaos.com
+  ## behance
+  - DOMAIN-SUFFIX,behance.net
+  ## BLOG
+  - DOMAIN-SUFFIX,foxi.buduanwang.vip
+  - DOMAIN-SUFFIX,telegram.org
