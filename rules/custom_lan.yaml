@@ -8,6 +8,12 @@ payload:
   - DOMAIN,sptv.ii00.cc
   - DOMAIN,sgtv.ii00.cc
   - DOMAIN,cn-music.mefun.vip
+  ## plex
+  - DOMAIN,v4.plex.tv
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,plex.direct
+  - DOMAIN-SUFFIX,cloud.plex.tv
+  - DOMAIN,discovery.plex.tv
   ##VPS
   - DOMAIN,qyapi.weixin.qq.com
   - DOMAIN,tk.usxx.xyz
