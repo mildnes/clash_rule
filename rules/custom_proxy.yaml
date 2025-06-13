@@ -57,3 +57,22 @@ payload:
   ## BLOG
   - DOMAIN-SUFFIX,foxi.buduanwang.vip
   - DOMAIN-SUFFIX,telegram.org
+  
+  ## XXXX VIP服
+  - DOMAIN,wptv.ii00.cc
+  - DOMAIN,wgtv.ii00.cc
+  - DOMAIN,cfptv.ii00.cc
+  - DOMAIN,cfgtv.ii00.cc
+  - DOMAIN,music.mefun.vip
+  ## Emby公益服
+  - DOMAIN,v.20120714.xyz
+  - DOMAIN,xl.studyfun.live
+  - DOMAIN,orjp2.20120714.xyz
+  - DOMAIN,orjp3.20120714.xyz
+  - DOMAIN,emby.misakaf.org
+  - DOMAIN,emby2.misakaf.org
+  - DOMAIN,embyvip.misakaf.org
+  - DOMAIN,cloudflare-cn.com
+  - DOMAIN,synology.com
+  - DOMAIN,pandoranext.com
+  - DOMAIN,rd.happyav.eu.org
