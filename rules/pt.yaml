@@ -1,6 +1,7 @@
 payload:
   ##PT
   - DOMAIN-SUFFIX,leaves.red
+  - DOMAIN-SUFFIX,crabpt.vip
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,star-space.net
   - DOMAIN-SUFFIX,sharkpt.net
